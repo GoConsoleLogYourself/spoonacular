@@ -1,0 +1,10 @@
+@import "../../Scss/reset";
+@import "../../Scss/vars";
+@import "../../Scss/base";
+@import "../../Scss/fonts";
+
+.drawer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
